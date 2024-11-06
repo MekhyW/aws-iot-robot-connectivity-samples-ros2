@@ -3,7 +3,7 @@
     "rootCAPath" : "ROOTCA",
     "certificatePath" : "CERTPATH",
     "privateKeyPath" : "PRIVATEKEY",
-    "port" : PORT,
+    "port" : 8883,
     "clientID" : "CLIENT",
     "region": "REGION",
     "retryWaitTime": 5,
